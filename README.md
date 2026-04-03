@@ -12,3 +12,5 @@
 - Spring Cloud Gateway
 - Netflix Eureka
 - WebClient (Reactive)
+
+### PostMan Link: https://web.postman.co/workspace/My-Workspace~dca9610a-765b-491d-83e0-c9307ef09811/collection/41402726-1b34a3a7-fdd0-4020-9215-6e8057c1171c?action=share&source=copy-link&creator=41402726
